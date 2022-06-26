@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-shop/static/css/main.d9e26a59.css",
+    "main.js": "/my-shop/static/js/main.4c332282.js",
+    "static/js/787.9c76829e.chunk.js": "/my-shop/static/js/787.9c76829e.chunk.js",
+    "static/media/ben-white-unsplash.jpeg": "/my-shop/static/media/ben-white-unsplash.4d742d9dfa39bdea943a.jpeg",
+    "static/media/studio-bag.png": "/my-shop/static/media/studio-bag.0f3196edd8f96de6d41c.png",
+    "index.html": "/my-shop/index.html",
+    "main.d9e26a59.css.map": "/my-shop/static/css/main.d9e26a59.css.map",
+    "main.4c332282.js.map": "/my-shop/static/js/main.4c332282.js.map",
+    "787.9c76829e.chunk.js.map": "/my-shop/static/js/787.9c76829e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9e26a59.css",
+    "static/js/main.4c332282.js"
+  ]
+}
